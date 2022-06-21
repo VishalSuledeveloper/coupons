@@ -1,0 +1,12 @@
+#coupon{
+    height:200px;
+    width:400px;
+    background-color:gray;
+    z-index: 100;
+    margin: auto;
+    visibility:hidden;
+}
+#img{
+    height:100%;
+    width:400px;
+}
